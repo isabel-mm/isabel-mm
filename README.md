@@ -6,6 +6,7 @@ I primarily work with annotated corpora and supervised learning approaches, comb
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=B9Q0w-kAAAAJ&hl=es&oi=ao)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4284--8897-green?style=flat&logo=orcid)](https://orcid.org/0000-0003-4284-8897)
+[![Website](https://img.shields.io/badge/Website-Academic-lightgrey?style=flat&logo=firefox-browser)](http://bit.ly/4qZU5v6)
 
 ---
 
